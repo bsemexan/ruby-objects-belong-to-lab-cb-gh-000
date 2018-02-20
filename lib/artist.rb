@@ -1,2 +1,3 @@
-class Artists
+class Artist
+  attr_accesor : name
 end
