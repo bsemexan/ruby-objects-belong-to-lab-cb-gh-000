@@ -1,4 +1,4 @@
 class Artist
-  attr_accessor :author, :song, :post
+  attr_accessor :name
 
 end
